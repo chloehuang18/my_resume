@@ -6,84 +6,66 @@ title: Chloe Huang's Resume
 Software Engineer
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="chloe.huangts@gmail.com">chloe.huangts@gmail.com</a>
+| <a href=" https://chloehuang18.github.io/myProfile">My Profile</a>
+| <a href="https://www.linkedin.com/in/chloe-huang-ts/">LinkedIn</a>
+| <a href="https://github.com/chloehuang18">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2017-2021`
+__Brigham Young University__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+`Expected Graduation Date December 2021`
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- 3.7 Major GPA
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2020 - April 2020`
+__Software Engineer Intern__, Riverton, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Trained and worked with the team in the CES Education Portfolio Department
+- Supported the LDSBC OIT team: created a scholarship application for 200+ applicants
+- Utilized Mendix to create a theme app for LDSBC for 2000+ users
+- Involved with the data warehouse solution and research process
 
-### Data Science Lead
+### Junior Application System Engineer 
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2021 - June Present`
+__Brigham Young Universit__, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Configured, managed, and troubleshot Microsoft office 365 products as an Office 365Administrator
+- Provided IT customer service to 500+ faculties and students at BYU-I
+- Monitored existing system to ensure structural integrity
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`September 2018 - December 2019`
+__Library Aide__, Consultant
 
 - Built product ordering and supply predictive algorithms for chips and beverages categories
 - Established standardized SQL calls and connections for PowerBI dashboards
 - Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2017-2019`
+__Chinese Tutor__, Rexburg, ID
 
 
 `2023-2025`
-__Service Missionary__, South Africa
+__Service Missionary__, Melbroune, Australia 
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2021 -->
 
 
