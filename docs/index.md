@@ -45,8 +45,10 @@ __Brigham Young Universit__, Rexburg, ID
 - Provided IT customer service to 500+ faculties and students at BYU-I
 - Monitored existing system to ensure structural integrity
 
+### Library Aide
+
 `September 2018 - December 2019`
-__Library Aide__, Consultant
+__Brigham Young Universit__, Rexburg, ID
 
 - Built product ordering and supply predictive algorithms for chips and beverages categories
 - Established standardized SQL calls and connections for PowerBI dashboards
