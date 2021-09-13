@@ -7,7 +7,7 @@ Software Engineer
 
 <div id="webaddress">
 <a href="chloe.huangts@gmail.com">chloe.huangts@gmail.com</a>
-| <a href=" https://chloehuang18.github.io/myProfile">My Profile</a>
+| <a href="https://chloehuang18.github.io/myProfile">My Profile</a>
 | <a href="https://www.linkedin.com/in/chloe-huang-ts/">LinkedIn</a>
 | <a href="https://github.com/chloehuang18">GitHub</a>
 </div>
