@@ -24,17 +24,19 @@ __Brigham Young University__, Rexburg, ID
 - 3.7 Major GPA
 
 
-## Related Experience
+## Internship
 
-### Internships
+### Software Engineer Intern
 
 `January 2020 - April 2020`
-__Software Engineer Intern__, Riverton, UT
+__The Church of Jesus Christ of Latter-Day Saints __, Riverton, UT
 
 - Trained and worked with the team in the CES Education Portfolio Department
 - Supported the LDSBC OIT team: created a scholarship application for 200+ applicants
 - Utilized Mendix to create a theme app for LDSBC for 2000+ users
 - Involved with the data warehouse solution and research process
+
+## Work Experience
 
 ### Junior Application System Engineer 
 
